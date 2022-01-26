@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/Dax911/ping-t3-docs',
+  docsRepositoryBase: 'https://github.com/Dax911/ping-t3-docs/tree/main',
   titleSuffix: ' – Nextra',
   logo: (
     <>
