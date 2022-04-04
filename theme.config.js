@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/Dax911/ping-t3-docs',
   docsRepositoryBase: 'https://github.com/Dax911/ping-t3-docs/tree/main',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Ping',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Ping</span>
@@ -16,15 +16,15 @@ export default {
       <meta name="theme-color" content="#757575" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="Ping - A better way to stream. " />
+      <meta name="og:description" content="Ping - A better way to stream. " />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1486108108598362115/E4ActmB3_400x400.png" />
+      <meta name="twitter:site:domain" content="ping.gg" />
+      <meta name="twitter:url" content="https://twitter.com/pingvideo" />
+      <meta name="og:title" content="Ping - A better way to stream. " />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="Ping" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
