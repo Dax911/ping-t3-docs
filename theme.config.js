@@ -23,7 +23,7 @@ export default {
       <meta name="twitter:site:domain" content="ping.gg" />
       <meta name="twitter:url" content="https://twitter.com/pingvideo" />
       <meta name="og:title" content="Ping - A better way to stream. " />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="og:image" content="https://pbs.twimg.com/profile_images/1486108108598362115/E4ActmB3_400x400.png" />
       <meta name="apple-mobile-web-app-title" content="Ping" />
       <link
         rel="apple-touch-icon"
